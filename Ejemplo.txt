@@ -1,0 +1,8 @@
+
+public class Ejemplo{
+    public static void main(String[] args){
+        System.out.printl(args[0]);
+        System.out.printl(args[1]);
+        System.out.printl(args[2]);
+    }
+}
